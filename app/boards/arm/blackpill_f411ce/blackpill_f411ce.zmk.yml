@@ -5,4 +5,3 @@ type: board
 arch: arm
 outputs:
   - usb
-exposes: [pro_micro]

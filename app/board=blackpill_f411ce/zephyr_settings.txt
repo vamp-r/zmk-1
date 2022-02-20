@@ -1,1 +1,0 @@
-"DTS_ROOT":"C:/Users/pablo/1/zmk/modules/hal/stm32"
