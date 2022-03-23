@@ -1,1 +1,0 @@
-putty.exe -serial com8 -sercfg 9200,8,n,1,N
