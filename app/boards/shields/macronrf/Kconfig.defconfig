@@ -1,0 +1,6 @@
+if SHIELD_MACRONRF
+
+config ZMK_KEYBOARD_NAME
+    default "macronrf"
+
+endif

@@ -1,0 +1,7 @@
+file_format: "1"
+id: macronrf
+name: Macronrf
+type: shield
+requires: [makerdiary_nrf52840_m2]
+features:
+  - keys
